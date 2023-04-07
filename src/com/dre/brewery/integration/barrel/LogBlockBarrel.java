@@ -17,9 +17,9 @@ import de.diddiz.LogBlock.Consumer;
 import de.diddiz.LogBlock.LogBlock;
 import de.diddiz.LogBlock.Logging;
 import static de.diddiz.LogBlock.config.Config.isLogging;
-import de.diddiz.util.BukkitUtils;
-import static de.diddiz.util.BukkitUtils.compareInventories;
-import static de.diddiz.util.BukkitUtils.compressInventory;
+import de.diddiz.LogBlock.util.BukkitUtils;
+import static de.diddiz.LogBlock.util.BukkitUtils.compareInventories;
+import static de.diddiz.LogBlock.util.BukkitUtils.compressInventory;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
